@@ -1,4 +1,4 @@
-const SITEURL = "https://genbuproject.github.io/MastodonRater/";
+const SITEURL = "https://gingadonrater.herokuapp.com/";
 
 const IDS = {
 	TOOLBAR: {
